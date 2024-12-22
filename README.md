@@ -8,3 +8,5 @@ Sudoku (originally called Number Place) is a logic-based, combinatorial number-p
 
 This web application features generating and solving standard 9-by-9 Sudoku puzzles of different difficulty levels (i.e., easy, medium, and hard).
 # Sudoku_Solver
+
+Live Demo Link-https://viratkumar01.github.io/Sudoku_Solver/
